@@ -79,6 +79,7 @@ canadiantire.ca
 carousell.ph
 carrefour.com.br
 carrefour.fr
+carrefour.be
 casasbahia.com.br
 caseking.de
 castorama.pl
@@ -179,9 +180,12 @@ gadgetandgear.com
 gadgetmonkeybd.com
 galaxus.ch
 galeria.de
+gamemania.be
 gamers.co.jp
+gamesenco.com
 gamestop.com
 gamma.nl
+gamma.be
 gap.com
 gapcanada.ca
 garbarino.com
@@ -421,6 +425,7 @@ smyk.com
 snapcraft.io
 sofmap.com
 sonymusicshop.jp
+standaardboekhandel.be
 staples.ca
 staples.com
 startech.com.bd
@@ -440,6 +445,7 @@ system76.com
 t-mobile.pl
 taaze.tw
 taiwanbar.cc
+takeaway.com
 taniaksiazka.pl
 target.com
 tchibo.com
